@@ -1,6 +1,5 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        logging = 1
         i = 0
         prev_count = 0
         count = 0
